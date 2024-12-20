@@ -19,7 +19,7 @@ Files in MCTS - rewards design/ Monte Carlo tree search
 Files in value_network - trained Neural network
 
 
-# Original Repo:
+# The Original Repo:
 
 Project for the MCTS of menu adaptions.
 
