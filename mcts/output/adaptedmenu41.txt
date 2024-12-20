@@ -1,0 +1,16 @@
+shoes
+-
+-
+-
+potato
+----
+-
+-
+gloves
+tomato
+chair
+tomato
+chair
+potato
+shoes
+gloves
