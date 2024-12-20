@@ -1,4 +1,4 @@
-# MCTS split Menu
+# MCTS Adaptive Split Menu
 
 # The original repo of this project : https://github.com/aalto-ui/chi21adaptive
 
