@@ -1,6 +1,6 @@
 # MCTS split Menu
 
-##The original repo of this project : https://github.com/aalto-ui/chi21adaptive
+# The original repo of this project : https://github.com/aalto-ui/chi21adaptive
 
 This an extension version of Adaptive Menu, with a focus on adapting the split menu.
 
