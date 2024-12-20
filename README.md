@@ -4,6 +4,13 @@
 
 This an extension version of Adaptive Menu, with a focus on adapting the split menu.
 
+My work focused on redesigning the rewards in Deep reinforcement learning to make the whole system work on the split menu specifically.
+
+
+
+
+# Original Repo:
+
 Project for the MCTS of menu adaptions.
 
 [Read the Value Network documentation in a dedicated folder.](./value_network/README.md)
