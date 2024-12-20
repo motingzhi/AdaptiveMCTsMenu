@@ -6,6 +6,11 @@ This an extension version of Adaptive Menu, with a focus on adapting the split m
 
 My work focused on redesigning the rewards in Deep reinforcement learning to make the whole system work on the split menu specifically.
 
+What is a split menu:
+![Splitmenu](splitmenu.png)
+
+
+
 ### What I have changed:
 Files in MCTS - rewards design and Monte Carlo tree search
 
